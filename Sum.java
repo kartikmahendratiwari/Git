@@ -4,6 +4,6 @@ public class Sum {
 		int b = 6;
 
 		//Printing the Sum
-		System.out.println(a+b);
+		System.out.println("Sum of 8 & 6 is " + (a+b));
 	}
 }
